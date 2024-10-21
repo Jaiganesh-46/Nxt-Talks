@@ -14,3 +14,7 @@ https://nxttalksbyjai.ccbp.tech/
 HTML5 – Structure and semantics
 CSS3 – Styling and layout
 No JavaScript – Performance-optimized
+
+🤝 Acknowledgements
+This project was developed as part of the NxtWave Internship Program. 
+Special thanks to the NxtWave team and community for the continuous guidance and support.
